@@ -1,17 +1,20 @@
-# pythonstu 风格规范http://zh-google-styleguide.readthedocs.io/en/latest/google-python-tyleguide/python_style_rules/
+# pythonstu 
+风格规范http://zh-google-styleguide.readthedocs.io/en/latest/google-python-tyleguide/python_style_rules/
+
 学习python
 ********************************************************************************************
-关键字、函数、方法
-关键字(keyword)-------------
+一、关键字、函数、方法的区别
+
+关键字(keyword)--
 -python内置的有特殊意义的标示符
 -len(keyword.kwlist) = 33 有33个关键字
 
-函数---------------
+函数--
 -封装了独立功能，可以直接调用
 -函数名(参数)
 -需要记住函数名
 
-方法-------------
+方法--
 -和函数类型，同样封装了独立功能，可以调用
 -需要通过对象来调用，指对这个对象进行操作
 -对象名.方法名(参数)
